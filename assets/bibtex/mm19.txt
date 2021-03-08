@@ -1,0 +1,7 @@
+@inproceedings{DBLP:conf/mm/Yang0ZYM19,
+  author    = {Yang, Shuo and Yu, Wei and Zheng, Ying and Yao, Hongxun and Mei, Tao},
+  title     = {Adaptive Semantic-Visual Tree for Hierarchical Embeddings},
+  booktitle = {Proceedings of the 27th {ACM} International Conference on Multimedia,
+               {MM} 2019 },
+  year      = {2019},
+}
